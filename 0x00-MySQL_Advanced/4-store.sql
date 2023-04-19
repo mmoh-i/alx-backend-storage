@@ -8,5 +8,5 @@ BEGIN
   UPDATE items
   SET quantity = quantity - NEW.quantity
   WHERE id = NEW.items_id;
-END;
-DELIMETER //
+END //
+DELIMETER;
