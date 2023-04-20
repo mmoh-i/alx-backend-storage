@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""9.insert new python docs ""
+"""9.insert new python docs """
 
 
 def insert_school(mongo_collection, **kwargs):
