@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """creating expiring cache tracker"""
 
 import redis
